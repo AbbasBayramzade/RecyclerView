@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerviewPRACTICA</string>
+    <string name="dummy_text">dummy_text</string>
+    <string name="my_recyclerview_project">My RecyclerView Project</string>
+</resources>
