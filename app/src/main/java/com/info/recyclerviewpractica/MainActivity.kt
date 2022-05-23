@@ -20,5 +20,7 @@ class MainActivity : AppCompatActivity() {
 
         recyclerView.adapter = adapter
 
+
+
     }
 }
